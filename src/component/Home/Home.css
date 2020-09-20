@@ -1,0 +1,60 @@
+@media only screen and (max-width: 600px) {
+    .Header{
+        background: rgb(224, 224, 224) !important;
+        flex-direction: row !important;
+        display: inline-flex;
+      }
+      .Welcome{
+          flex: auto;
+          font-size: 0.6em;
+      }
+    
+      .Signout{
+          flex:content ;
+          height: min-content;
+      }
+      .Content{
+         padding: 2em 5em ;
+         align-content: center;
+         align-items: center;
+         text-align: center;
+         font: 0.7em sans-serif;
+    
+      }
+      .Footer{
+          position: relative;
+          font-family: 'Courier New', Courier, monospace;
+          font-weight: 100;
+          align-self: center;
+          min-height: auto;
+      }
+  }
+  @media only screen and (min-width: 600px) {
+.Header{
+    background: rgb(224, 224, 224) !important;
+    flex-direction: row !important;
+    display: inline-flex;
+  }
+  .Welcome{
+      flex: auto;
+      font-size: 0.8em;
+  }
+
+  .Signout{
+      flex:content ;
+      height: min-content;
+  }
+  .Content{
+     padding: 2em 5em ;
+     align-content: center;
+     align-items: center;
+     text-align: center;
+
+  }
+  .Footer{
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: 100;
+      align-self: center;
+      min-height: auto;
+  }
+}
