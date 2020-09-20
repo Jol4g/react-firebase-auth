@@ -1,13 +1,13 @@
 # react-firebase-auth-email-password
 ## *1
-<img src="./test/image1.png">
+<img src="./test/image1.PNG">
 
 <br/>
 <br/>
 <br/>
 
 ## *2
-<img src="./test/image2.png">
+<img src="./test/image2.PNG">
 
 ### `yarn start`
 
